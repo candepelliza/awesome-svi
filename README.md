@@ -7,7 +7,7 @@ Explains how to build your own web app for getting perceptions
 https://github.com/emilymuller1991/urban-perceptions
 https://emilymuller1991.github.io/urban-perceptions/index.html
 
-### Human Perception and SVI project
+#### Human Perception and SVI project
 https://github.com/Spatial-Data-Science-and-GEO-AI-Lab/percept
 
 
