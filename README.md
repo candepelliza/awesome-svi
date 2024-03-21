@@ -14,13 +14,20 @@ https://github.com/Spatial-Data-Science-and-GEO-AI-Lab/percept
 
 ## Papers
 A citizen science toolkit to collect human perceptions of urban environments using open street view images
+
 Street view imagery in urban analytics and GIS: A review
+
 Urban neighbourhood environment assessment based on street view image processing: A review of research trends
+
 City-Wide Perceptions of Neighbourhood Quality using Street View Images
 
 ## Datasets
 
+### Urban Perception & Urban Quality (Classification and regression tasks)
+
 #### Place Pulse 2
 https://drive.google.com/drive/folders/1AhFu9GKDgTERgI7SED_hP801Kt7DwALc
 
+### Semantic Segmentation
 
+### Place Recognition
