@@ -28,6 +28,9 @@ City-Wide Perceptions of Neighbourhood Quality using Street View Images
 #### Place Pulse 2
 https://drive.google.com/drive/folders/1AhFu9GKDgTERgI7SED_hP801Kt7DwALc
 
+#### SustainBench - DHS survey-based Datasets
+https://sustainlab-group.github.io/sustainbench/docs/datasets/
+
 ### Semantic Segmentation
 
 ### Place Recognition
