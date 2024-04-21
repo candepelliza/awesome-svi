@@ -3,13 +3,37 @@ A repository of Awesome Street View Imagery (SVI) datasets, tutorials, papers an
 
 ## Datasets
 
-| Dataset | Task/Problem | Authors | Paper | Spatial Coverage | Geolocated? |
- --- | --- | ---- | ---| --- | ---- |
-| [PlacePulse 2.0](https://centerforcollectivelearning.org/urbanperception) | Urban Perception | Dubey et al. | [Deep Learning the City: Quantifying Urban Perception at a Global Scale](https://link.springer.com/chapter/10.1007/978-3-319-46448-0_12) | 56 cities around the world | Yes |
-|[Visual Soundscapes](https://github.com/ualsg/Visual-soundscapes) | Acoustic Characteristics Prediction | Zhao et al. | [Sensing urban soundscapes from street view imagery](https://www.sciencedirect.com/science/article/abs/pii/S0198971522001594?via%3Dihub) | Singapur, Shenzhen | No |
-| [CityScapes](https://www.cityscapes-dataset.com/) | Semantic Segmentation | Cordts et al. | [The Cityscapes Dataset for Semantic Urban Scene Understanding](https://arxiv.org/abs/1604.01685) | 50 German cities | No
-| [Treepedia](https://github.com/billcai/treepedia_dl_public?tab=readme-ov-file) | Tree Coverage Segmentation | 
+| Dataset | Task/Problem | Spatial Coverage | Geolocated? |
+ --- | --- | ---- | ---|
+| [PlacePulse 2.0](#place-pulse-20) | Urban Perception | 56 cities around the world | Yes |
+|[Visual Soundscapes](#visual-soundscapes) | Acoustic Characteristics Prediction | Singapur, Shenzhen | No |
+| [CityScapes](#cityscapes) | Semantic Segmentation | 50 German cities | No
+| [Treepedia](#treepedia) | Tree Coverage Segmentation | 
 
+
+### Place Pulse 2.0
+
+Paper: [Deep Learning the City: Quantifying Urban Perception at a Global Scale](https://link.springer.com/chapter/10.1007/978-3-319-46448-0_12). Dubey et al. 
+
+[Access the Place Pulse 2.0 Dataset](https://centerforcollectivelearning.org/urbanperception)
+
+[Other source to access the Dataset](https://drive.google.com/drive/folders/1AhFu9GKDgTERgI7SED_hP801Kt7DwALc)
+
+### Visual Soundscapes
+
+Paper: [Sensing urban soundscapes from street view imagery](https://www.sciencedirect.com/science/article/abs/pii/S0198971522001594?via%3Dihub). Zhao et al.
+
+[Access the Visual Soundscapes Dataset](https://github.com/ualsg/Visual-soundscapes)
+
+### CityScapes
+
+Paper: [The Cityscapes Dataset for Semantic Urban Scene Understanding](https://arxiv.org/abs/1604.01685). Cords et al.
+
+[Access the CityScapes Dataset](https://www.cityscapes-dataset.com/)
+
+### Treepedia
+
+[Access the Treepedia Dataset](https://github.com/billcai/treepedia_dl_public?tab=readme-ov-file)
 
 ## SVI Perceptions acquisiton
 #### Urban perceptions
@@ -44,14 +68,6 @@ City-Wide Perceptions of Neighbourhood Quality using Street View Images
 
 ## Datasets
 
-### Urban Perception & Urban Quality (Classification and regression tasks)
-
-#### Place Pulse 2
-https://drive.google.com/drive/folders/1AhFu9GKDgTERgI7SED_hP801Kt7DwALc
-
 #### SustainBench - DHS survey-based Datasets
 https://sustainlab-group.github.io/sustainbench/docs/datasets/
 
-### Semantic Segmentation
-
-### Place Recognition
