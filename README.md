@@ -92,6 +92,9 @@ https://emilymuller1991.github.io/urban-perceptions/index.html
 #### Human Perception and SVI project
 https://github.com/Spatial-Data-Science-and-GEO-AI-Lab/percept
 
+#### Streetscore
+https://github.com/openplans/streetscore
+
 
 
 ## Papers
