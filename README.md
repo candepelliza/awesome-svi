@@ -32,6 +32,8 @@ A curated repository of Awesome Street View Imagery (SVI) resources including da
 | [StreetSense](#StreetSense) | Road Quality Evaluation | Lagos, Bangkok, Jakarta, Wayne | Yes
 | [OpenStreetView-5M](#OpenStreetView-5M) | Place Recognition/ Geolocalization | 225 countries | Yes
 
+| ▲ [Top](#Awesome-SVI) |
+
 ### Place Pulse 2.0
 
 A dataset to evaluate urban perception, which contains crowdsourced impressions of beauty, wealthy, safety, liveliness, boreness and interestingness of more than 100.000 SV images around the world.
@@ -50,6 +52,8 @@ A dataset to evaluate urban perception, which contains crowdsourced impressions 
 * [Are Safer Looking Neighborhoods More Lively?: A Multimodal Investigation into Urban Life.](https://dl.acm.org/doi/10.1145/2964284.2964312) De nadai et al. (2016)
 * [Computer vision uncovers predictors of physical urban change.](https://www.pnas.org/doi/full/10.1073/pnas.1619003114) Naik et al. (2017)
 
+| ▲ [Datasets](#Datasets) |
+
 ### Visual Soundscapes
 
 A dataset for evaluating the visual perception of urban sound characteristics. Contains crowdsourced perceptions + on-field sound measurements + other derived urban metrics and segmented image content.
@@ -59,6 +63,8 @@ A dataset for evaluating the visual perception of urban sound characteristics. C
 **Papers introducing or using the dataset:**
 * [Sensing urban soundscapes from street view imagery](https://www.sciencedirect.com/science/article/abs/pii/S0198971522001594?via%3Dihub). Zhao et al.
 
+| ▲ [Datasets](#Datasets) |
+
 ### CityScapes
 
 A urban object-segmentation dataset, containing annotated masks for a wide amount of common urban objects in SVI-like images.
@@ -67,6 +73,8 @@ A urban object-segmentation dataset, containing annotated masks for a wide amoun
 
 **Papers introducing or using the dataset:**
 * [The Cityscapes Dataset for Semantic Urban Scene Understanding](https://arxiv.org/abs/1604.01685). Cords et al.
+
+| ▲ [Datasets](#Datasets) |
 
 ### Treepedia
 
@@ -86,6 +94,8 @@ Dataset providing tree coverage masks on street view imagery.
 * [Green streets − Quantifying and mapping urban trees with street-level imagery and computer vision.](https://senseable.mit.edu/papers/pdf/20170512_Seiferling_etal_GreenStreets_LandscapeUrbanPlanning.pdf) Seiferling et al. (2017)
 * [Mapping the spatial distribution of shade provision of street trees in Boston using Google Street View panoramas.](https://senseable.mit.edu/papers/pdf/20180425_Li-Ratti_MappingShades_UrbanForestry.pdf) Li & Ratti (2018)
 
+| ▲ [Datasets](#Datasets) |
+
 ### SustainBench
 
 A dataset that makes part of the SustainBench project for monitoring sustainable development goals. It provides satellite imagery + SVI of neighborhoods around the world, with annotations for different development indicators (women education, clean water, sanitation, child moratlity rate, women BMI, wealth).
@@ -96,6 +106,8 @@ A dataset that makes part of the SustainBench project for monitoring sustainable
 * [Predicting Livelihood Indicators from Community-Generated Street-Level Imagery](https://ojs.aaai.org/index.php/AAAI/article/view/16101). Lee et al (2021)
 * [Using publicly available satellite imagery and deep learning to understand economic well-being in Africa](https://www.nature.com/articles/s41467-020-16185-w). Yeh et al. (2020)
 
+| ▲ [Datasets](#Datasets) |
+
 ### Resource Cadastre
 
 A dataset providing SVI labelled with the facade material of the building in the scene.
@@ -105,6 +117,8 @@ A dataset providing SVI labelled with the facade material of the building in the
 **Papers introducing or using the dataset:**
 * [Towards a ‘resource cadastre’ for a circular economy – Urban-scale building material detection using street view imagery and computer vision](https://www.sciencedirect.com/science/article/pii/S0921344923002768). Raghu et al. (2023)
 
+| ▲ [Datasets](#Datasets) |
+
 ### Street Scouting
 
 A dataset for urban object detection using SVI-like videos. 
@@ -113,6 +127,8 @@ A dataset for urban object detection using SVI-like videos.
 
 **Papers introducing or using the dataset:**
 * [StreetScouting dataset: A Street-Level Image dataset for finetuning and applying custom object detectors for urban feature detection](https://www.sciencedirect.com/science/article/pii/S2352340923001609). Moschos et al. (2023)
+
+| ▲ [Datasets](#Datasets) |
 
 ### GSV Cities
 
@@ -124,6 +140,8 @@ Dataset for Visual Place recognition and geolocalization comprising 530k images 
 
 **Papers introducing or using the dataset:**
 * [GSV-Cities: Toward appropriate supervised visual place recognition](https://www.sciencedirect.com/science/article/abs/pii/S0925231222012188)
+
+| ▲ [Datasets](#Datasets) |
 
 ### StreetSense
 
@@ -144,6 +162,8 @@ A dataset for geolocalization based on SVI, providing over 5.1 million geolocate
 **Papers introducing or using the dataset:**
 * [OpenStreetView-5M: The Many Roads to Global Visual Geolocation.](https://arxiv.org/abs/2404.18873) Astruc et al. (2024)
 
+| ▲ [Datasets](#Datasets) |
+
 ## Building your own SVI Datasets
 
 Some repositories and resources to acces SVI and build your own SVI dataset collecting crowdsourced tags
@@ -151,6 +171,8 @@ Some repositories and resources to acces SVI and build your own SVI dataset coll
 * [City-wide perceptions of neighbourhood quality using street-view images: a methodological toolkit](https://emilymuller1991.github.io/urban-perceptions/index.html): Provides all the necessary components to launch your own urban perceptions survey using street view images.
 
 * [Human Perception and SVI Project ](https://github.com/Spatial-Data-Science-and-GEO-AI-Lab/percept)
+
+| ▲ [Datasets](#Datasets) |
 
 ## SVI Providers
 
@@ -165,6 +187,8 @@ Some repositories and resources to acces SVI and build your own SVI dataset coll
 
 A full list of other SVI local and regional providers per country can be accessed in this [Wikipedia Site](https://en.wikipedia.org/wiki/List_of_street_view_services#:~:text=Google%20Street%20View%20is%20the,a%20CC%20BY%2DSA%20license.)
 
+| ▲ [Top](#Awesome-SVI) |
+
 ## SVI Review Papers
 [Street View Imagery (SVI) in the Built Environment: A Theoretical and Systematic Review.](https://www.mdpi.com/2075-5309/12/8/1167) Li et al. (2022)
 
@@ -175,4 +199,4 @@ using street view imagery in public health studies](https://senseable.mit.edu/pa
 
 [Urban neighbourhood environment assessment based on street view image processing: A review of research trends.](https://www.sciencedirect.com/science/article/pii/S266701002100069X) He & Li (2021)
 
-
+| ▲ [Top](#Awesome-SVI) |
