@@ -4,7 +4,7 @@
 
 A curated repository of Awesome Street View Imagery (SVI) resources including datasets, providers, tutorials, papers and other resources.
 
-[ *Under construction 05/2024* ]
+[ *Under construction 06/2024* ]
 
 ![alt text](svi.png)
 
@@ -198,5 +198,7 @@ A full list of other SVI local and regional providers per country can be accesse
 using street view imagery in public health studies](https://senseable.mit.edu/papers/pdf/20200801_Kang-etal_ReviewUrbanPhysical_AnnalsGIS.pdf). Kang et al (2020)
 
 [Urban neighbourhood environment assessment based on street view image processing: A review of research trends.](https://www.sciencedirect.com/science/article/pii/S266701002100069X) He & Li (2021)
+
+[Understanding urban perception with visual data: A systematic review](https://www.sciencedirect.com/science/article/pii/S0264275124003834?dgcid=coauthor) Ito, K. et al. (2024)
 
 | ▲ [Top](#Awesome-SVI) |
